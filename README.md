@@ -16,7 +16,8 @@
 <h3>
    :hammer_and_wrench: Tech stack I have been using recently 
 </h3>
-AWS, Azure, Docker, Terraform, Pulumi, Ansible, Bash, Ubuntu, Nginx, GitLab CI/CD, GitHub Actions, Python, Django, FastAPI, PostgreSQL, SQLite
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+Azure, Docker, Terraform, Pulumi, Ansible, Bash, Ubuntu, Nginx, GitLab CI/CD, GitHub Actions, Python, Django, FastAPI, PostgreSQL, SQLite
 
 <h3>
    :toolbox: Tech stack I have used in the past 
