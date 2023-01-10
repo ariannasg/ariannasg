@@ -4,7 +4,6 @@
 
 <h3>
    :woman_office_worker:  About Me 
-   <hr height="0.1em" />
 </h3>
 
 <ul>
@@ -16,13 +15,11 @@
 
 <h3>
    :hammer_and_wrench: Tech stack I have been using recently 
-   <hr height="0.1em" />
 </h3>
 AWS, Azure, Docker, Terraform, Pulumi, Ansible, Bash, Ubuntu, Nginx, GitLab CI/CD, GitHub Actions, Python, Django, FastAPI, PostgreSQL, SQLite
 
 <h3>
    :toolbox: Tech stack I have used in the past 
-   <hr height="0.1em" />
 </h3>
 Pytest, Jenkins, Flask, SQLAlchemy, Alembic, Allure, Locust, Datadog, 
 Java, Apache Maven, BigQuery, Flume, PHP, Symfony, JUnit, PHPUnit, MySQL, Presto, Redis, Semaphore CI, Blackfire, Sentry, 
