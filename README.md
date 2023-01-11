@@ -66,10 +66,10 @@
    :chart_with_upwards_trend: My top GitHub languages
 </h3>
 
-![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariannasg)
+![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariannasg&hide_title=true)
 
 <h3>
    :chart_with_upwards_trend: My latest GitHub metrics
 </h3>
 
-![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=ariannasg&show_icons=true)
+![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=ariannasg&show_icons=true&hide_title=true)
