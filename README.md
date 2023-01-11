@@ -63,8 +63,14 @@
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 
 <h3>
-   :chart_with_upwards_trend: My latest GitHub Metrics
+   :chart_with_upwards_trend: My top GitHub languages
 </h3>
 
-![Metrics](https://metrics.lecoq.io/ariannasg?template=classic&base.header=0&gists=1&lines=1)
+![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ariannasg)
+
+<h3>
+   :chart_with_upwards_trend: My latest GitHub metrics
+</h3>
+
+![GitHub Metrics](https://metrics.lecoq.io/ariannasg?template=classic&base.header=0&gists=1&lines=1)
 
