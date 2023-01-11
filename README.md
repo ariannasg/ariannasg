@@ -61,3 +61,10 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+
+<h3>
+   :chart_with_upwards_trend: My latest GitHub Metrics
+</h3>
+
+![Metrics](https://metrics.lecoq.io/ariannasg?template=classic&base.header=0&gists=1&lines=1)
+
