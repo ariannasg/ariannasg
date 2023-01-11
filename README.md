@@ -72,5 +72,4 @@
    :chart_with_upwards_trend: My latest GitHub metrics
 </h3>
 
-![GitHub Metrics](https://metrics.lecoq.io/ariannasg?template=classic&base.header=0&gists=1&lines=1)
-
+![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=ariannasg&show_icons=true)
