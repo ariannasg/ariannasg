@@ -1,5 +1,5 @@
 <h2>
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"/> Hello! I’m Ari
+   :wave: Hello! I’m Ari
 </h2>
 
 <h3>
@@ -7,9 +7,9 @@
 </h3>
 
 <ul>
-  <li> :woman_technologist: I am a Senior Software Engineer, focused on backend development </li>
-  <li> :briefcase: I am currently working at a bespoke Software consultancy </li>
-  <li> :books: I am currently learning DevOps skills </li>
+  <li> :woman_technologist: I am a Platform Engineer, who used to be a Software Engineer </li>
+  <li> :briefcase: I am currently working at an IT consultancy </li>
+  <li> :books: I am currently learning DevOps & Cloud Engineering skills </li>
   <li> :grin: Fun fact: I am terrified of heights but I tried out the highest bungee jump in New Zealand (134m!) </li>
 </ul>
 
