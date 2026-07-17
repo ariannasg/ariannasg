@@ -1,22 +1,14 @@
-<h2>
-   :wave: Hello! I’m Ari
-</h2>
+## 👋 Hello! I’m Ari
 
-<h3>
-   :woman_office_worker:  About Me 
-</h3>
+### 👩‍💼  About Me 
 
-<ul>
-  <li> :woman_technologist: I am a Senior Platform Engineer, who used to be a Software Engineer </li>
-  <li> :mag_right: I am focused on DevOps & Cloud Engineering </li>
-  <li> :briefcase: I am currently working at an IT consultancy </li>
-  <li> :books: I am currently learning AI </li>
-  <li> :grin: Fun fact: I am terrified of heights but I tried out the highest bungee jump in New Zealand (134m!) </li>
-</ul>
+👩‍💻 I am a Senior Platform Engineer, who used to be a Software Engineer\
+🔎 I am focused on DevOps & Cloud Engineering\
+💼 I am currently working at an IT consultancy\
+📚 I am currently learning AI\
+😁 Fun fact: I am terrified of heights but I tried out the highest bungee jump in New Zealand (134m!)
 
-<h3>
-   :hammer_and_wrench: Tech stack I have been using recently 
-</h3>
+### 🛠️ Tech stack I have been using recently 
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon_web_services&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
@@ -30,15 +22,23 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=fff)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/postman-FF7F50?style=for-the-badge&logo=postman&logoColor=white)
+![Curl](https://img.shields.io/badge/curl-grey?style=for-the-badge&logo=curl&logoColor=white)
+![JSON](https://img.shields.io/badge/json-888?style=for-the-badge&logo=json&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-191970?style=for-the-badge&logo=markdown&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![NodeJS](https://img.shields.io/badge/nodejs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-orange?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VSCode](https://img.shields.io/badge/vscode-6F8FAF?style=for-the-badge&logo=vscode&logoColor=white)
+![iTerm](https://img.shields.io/badge/iterm-333?style=for-the-badge&logo=iterm2&logoColor=white)
+![Copilot](https://img.shields.io/badge/githubcopilot-702963?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Codex](https://img.shields.io/badge/codex-74aa9c?logo=openai&logoColor=white&style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude_Code-555?logo=claude&style=for-the-badge)
+![Gemini](https://img.shields.io/badge/gemini-blue?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-<h3>
-   :toolbox: Tech stack I have used in the past 
-</h3>
+### 🧰 Tech stack I have used in the past 
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -46,13 +46,15 @@
 ![Pulumi](https://img.shields.io/badge/pulumi-74aa9c?logo=pulumi&logoColor=white&style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%235835CC.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Opsgenie](https://img.shields.io/badge/opsgenie-orange?style=for-the-badge&logo=opsgenie&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-purple?style=for-the-badge&logo=pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%3BABC3.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -61,6 +63,7 @@
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/mixpanel-DA70D6?style=for-the-badge&logo=mixpanel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
